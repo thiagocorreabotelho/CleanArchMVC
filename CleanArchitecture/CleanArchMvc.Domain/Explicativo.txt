@@ -1,0 +1,6 @@
+﻿Entities Contém as  classes Category e Product que representam o nosso modelo de nomínio.
+Interfaces Contém as informações ICategoryRepository e IProductRepository
+Validation Contém a classe DomainExceptionValidation para validar o modelo de domínio
+
+Entity "Uma entidade é um objeto dentro do nosso projeto que incorpora um conjunto de regras críticas de negócio operando em Dados 
+Críticos de Negócios"
